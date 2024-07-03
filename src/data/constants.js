@@ -309,7 +309,7 @@ export const projects = [
     description:
       "Developed a personal portfolio website using React Js, showcasing projects and skills. Implemented modern web technologies like HTML5, CSS3, and JavaScript. Integrated Git for version control.",
     image:
-      "https://raw.githubusercontent.com/maheeshamaduwantha/portfolio_website_V2/main/Cover%20Image.png",
+      "https://raw.githubusercontent.com/maheeshamaduwantha/portfolio_website_V2/main/src/images/Cover%20Image.png",
     tags: ["React Js", "HTML5", "CSS3", "JavaScript", "Git"],
     category: "web app",
     github: "https://github.com/maheeshamaduwantha/portfolio_website_V2",
